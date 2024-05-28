@@ -12,11 +12,8 @@ Users have to create an account to use the application. The user’s information
 <p align="center"><img src="https://github.com/Abhijeet-Pitumbur/Fitbliss/blob/main/project/resources/screenshot-6.png"/></p>
 <p align="center"><img src="https://github.com/Abhijeet-Pitumbur/Fitbliss/blob/main/project/resources/screenshot-7.png"/></p>
 
-### [Download Application](https://github.com/Abhijeet-Pitumbur/Fitbliss/raw/main/Fitbliss.jar)
 
-##### [Download MySQL Database Dump](https://github.com/Abhijeet-Pitumbur/Fitbliss/raw/main/Fitbliss-Database.sql)  · GitHub
-##### [View PDF Report](https://bit.ly/abhijt-fitbliss-report)  · Google Drive
-##### [Download Repository](https://github.com/Abhijeet-Pitumbur/Fitbliss/archive/refs/heads/main.zip)  · GitHub
+
 
 ## Application Prerequisites
 - Download the [Fitbliss](https://github.com/Abhijeet-Pitumbur/Fitbliss/raw/main/Fitbliss.jar) application as an executable JAR file.
@@ -37,7 +34,4 @@ Users have to create an account to use the application. The user’s information
 - XAMPP 8.1
 - Java MySQL Connector 8.0
 
-## Credits
-- Abhijeet Pitumbur
-- Oudish Thacooree
-- Viman Singh Sreepaul
+
